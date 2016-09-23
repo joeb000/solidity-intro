@@ -25,7 +25,6 @@ This repo is meant to be a guide to help developers get up and running with soli
 
 
 
-
 #### Useful Links:
 
 Solidity Online Compiler - https://ethereum.github.io/browser-solidity/#version=soljson-v0.4.2+commit.af6afb04.js
