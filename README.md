@@ -1,5 +1,7 @@
 # Intro to Ethereum and Sample Solidity Contracts
 
+This repo is meant to be a guide to help developers get up and running with solidity contracts.
+
 Useful javascript console commands:
 
     personal.newAccount()
@@ -25,6 +27,9 @@ Guest List Contract Helpers:
 
 
 Useful Links:
+
 Solidity Online Compiler - https://ethereum.github.io/browser-solidity/#version=soljson-v0.4.2+commit.af6afb04.js
+
 Solidity (smart contract language) - https://solidity.readthedocs.io/en/develop/
+
 Javascript console commands (interact with blockchain using this console) - https://github.com/ethereum/go-ethereum/wiki/JavaScript-Console
